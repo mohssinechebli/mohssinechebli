@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohssinechebli
 - 👀 I’m interested in Data Science for Marketing and Quantitative Economics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects on machine learning or econometrics
+- 💞️ I’m looking to collaborate on projects on machine learning and econometrics
 - 📫 How to reach me mohssinechebli@gmail.com
 
 <!---
