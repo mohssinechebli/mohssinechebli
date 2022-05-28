@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohssinechebli
-- 👀 I’m interested in Data Science and Quantitative Economics
-- 💞️ I’m looking to collaborate on projects on machine learning, econometrics and NLP
+-  I’m interested in Data Science and Quantitative Economics
+-  I’m looking to collaborate on projects on machine learning, econometrics and NLP
 - 📫 How to reach me : mohssinechebli@gmail.com
 
 <!---
